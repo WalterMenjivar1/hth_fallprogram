@@ -2,13 +2,16 @@
 
 No. | Question
 :-:|:-
-1 | Does being from a surtain country play a role in how successful a team is?
-2 | How much can a coach with a lot of experience play a role in a team's winning strategy?
-3 | Does a players height correlate to the amount of goals they score? 
-4 | Does a player's experience matter in how much it contributes to the team?
-5 | Does a scoring a lot of goals mean a team is eligible to win the cup? 
-6 | Is there a correlation between the amount you practice and the amount of goals you will make? 
-7 | Does the conditions a player grow up in affect the way they play? 
-8 | It is more important to score goals or do assists?
-9 | Does a goalkeer's height effect the amount of goals they will be scored on?
-10 | Does getting draws mean a team is bad?
+1 | Is there any correlation between a players club and difference in their value and overall 
+     Rating?
+2 | Is there any correlation between the players rating and the wages that they earn?
+3 | Does a goalkeeper's height affect the amount of reflexes they have? 
+4 | Does a players height correlate to the overall rating they have? 
+5 | How much does the body type affect the agility of the player and the skill level they have?
+6 | How does being from a certain nationality affect where they play soccer? Where are the most common nationalities and which have
+    the best  ratings?  
+7 |  Is it more important for a midfielder to have better long passing skill or attacking short
+    passing? 
+8 | Is there a correlation between a person's body type and their stamina levels? 
+9 | Is it more important for a midfielder to score goals or have better dribbling skills and passing assists?
+10 | Does the player's age correlate play a role in their dribbling skills?
